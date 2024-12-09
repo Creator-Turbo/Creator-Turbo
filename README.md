@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bablu kumar pandey</h1>
-<h3 align="center">A passionate Data Science with AI/ML from India</h3>
+<h3 align="center">A passionate Data Science with AI/ML , Generative AI from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creator-turbo&label=Profile%20views&color=0e75b6&style=flat" alt="creator-turbo" /> </p>
 
