@@ -10,16 +10,16 @@
 
 - 🌱 I’m currently learning **MLops and Natural language processing (NLP)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Creator-Turbo?tab=repositories](https://github.com/Creator-Turbo?tab=repositories)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Creator-Turbo?tab=repositories">My GitHub Repositories</a>
 
 - 💬 Ask me about **Machine Learning (ML) and Deep Learning (DL)**
 
 - 📫 How to reach me **bablupandey446@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xAKIFH8I3Q2LipsTzolc2YqpMDiD42hD/view?usp=sharing](https://drive.google.com/file/d/1xAKIFH8I3Q2LipsTzolc2YqpMDiD42hD/view?usp=sharing)
-- 
-- ## Portfolio
-[📄 Know about my experiences]([https://drive.google.com/file/d/1xAKIFH8I3Q2LipsTzolc2YqpMDiD42hD/view?usp=sharing](https://creator-turbo.github.io/Creator-Turbo-Portfolio-website/))
+- 📄 View My <a href="https://drive.google.com/file/d/1xAKIFH8I3Q2LipsTzolc2YqpMDiD42hD/view?usp=sharing">Resume</a>
+
+- 🌐 View My <a href="https://creator-turbo.github.io/Creator-Turbo-Portfolio-website/">Portfolio</a>
+
 
 
 <h3 align="left">Connect with me:</h3>
