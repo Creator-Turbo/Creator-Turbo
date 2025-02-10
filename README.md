@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bablupandey446@gmail.com**
 
-- 📄 View My <a href="https://drive.google.com/drive/my-drive">Resume</a>
+- 📄 View My <a href="https://drive.google.com/drive/home">Resume</a>
 
 - 🌐 View My <a href="https://creator-turbo.github.io/Creator-Turbo-Portfolio-website/">Portfolio</a>
 
