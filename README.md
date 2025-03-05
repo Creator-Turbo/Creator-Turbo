@@ -37,9 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creator-turbo&show_icons=true&locale=en" alt="creator-turbo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creator-turbo&" alt="creator-turbo" /></p>
-
-
-
-
-
-![snake gif](https://github.com/Creator-Turbo/Creator-Turbo/blob/output/github-snake-dark.svg)
